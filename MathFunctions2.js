@@ -9,7 +9,7 @@ let minimum;
 a = Math.sqrt(a);
 maximum = Math.max(x, y, z);
 minimum = Math.min(x, y, z);
-console.log(x);
+
 console.log(a);
 console.log(maximum);
 console.log(minimum);
