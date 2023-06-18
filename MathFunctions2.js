@@ -13,3 +13,8 @@ minimum = Math.min(x, y, z);
 console.log(a);
 console.log(maximum);
 console.log(minimum);
+----------------------------------
+/* OutPut
+2
+7
+3 */
