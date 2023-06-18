@@ -5,7 +5,7 @@ let a = 4;
 let maximum;
 let minimum;
 
-x = Math.pow(x, 2);
+
 a = Math.sqrt(a);
 maximum = Math.max(x, y, z);
 minimum = Math.min(x, y, z);
